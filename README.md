@@ -1,2 +1,3 @@
 # resume
-A repo for my resume
+
+### A repo to host my resume.
